@@ -1,0 +1,5 @@
+{
+  "name": "NeoAvatar 3D Visualizer",
+  "description": "Transform your 2D character concept art into a stunning 3D turntable visualization using Google's Veo generative video technology.",
+  "requestFramePermissions": []
+}
